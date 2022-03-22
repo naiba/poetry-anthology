@@ -20,3 +20,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_src: /
+          gem_src: /
